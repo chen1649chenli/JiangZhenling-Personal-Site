@@ -6,6 +6,7 @@
 .row-pub{
     margin:0px auto;
     padding:0px 0px 20px 0px;
+    font-size: 15;
 }
 
 .row-content {
@@ -80,4 +81,3 @@
 .badge-info {
   background-color: #3a87ad;
 }
-

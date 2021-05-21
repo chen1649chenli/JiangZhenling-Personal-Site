@@ -81,3 +81,28 @@
 .badge-info {
   background-color: #3a87ad;
 }
+
+
+a:link {
+  color: #2471A3;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #2471A3;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2471A3;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #2471A3;
+  background-color: transparent;
+  text-decoration: underline;
+}
